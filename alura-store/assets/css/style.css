@@ -8,6 +8,7 @@
     "rodape";
     grid-template-columns: auto;
     grid-template-rows: 50px 100vh auto ;
+    font-size: 24px;
 }
 
 .cabecalho {
@@ -16,7 +17,6 @@
  
 .conteudo {
     grid-area: conteudo;
-    background-color: aqua;
 }
 
 .rodape {
